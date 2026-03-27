@@ -21,4 +21,7 @@ Limitaciones y recomendaciones futuras:
 
 El dataset es simulado, por lo que no refleja comportamientos reales específicos de un usuario.
 Se recomienda trabajar con datos reales, aplicar modelos más avanzados como series de tiempo y agregar variables como ingresos para obtener análisis más completos.
+
+
+
 LINK EXCEL https://universidadeaneduco-my.sharepoint.com/:x:/g/personal/jromero84148_universidadean_edu_co/IQC2soKXv2oOT5iynz1pAhP2AT8hNeP0N2ai3ef8JKhJWzY?e=f4Djum
